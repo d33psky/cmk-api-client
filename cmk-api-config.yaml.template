@@ -1,0 +1,13 @@
+%YAML 1.2
+# CMK api config
+---
+
+# CMK API url
+cmk_api_url: 'url pointing to your webapi.py'
+
+# CMK API user
+cmk_api_user: 'robot user name'
+
+# CMK API password
+cmk_api_password: 'robot user secret'
+
